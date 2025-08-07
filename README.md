@@ -1,7 +1,3 @@
-Of course\! Here is a comprehensive `README.md` template tailored for a project with a Python backend and a TypeScript frontend. You can copy this, paste it into your `README.md` file, and fill in the bracketed `[...]` sections with your project's specific details.
-
------
-
 # LinkRecruiters 🚀
 
 [](https://opensource.org/licenses/MIT)
@@ -138,18 +134,6 @@ Ensure you have the following software installed on your system:
         npm run dev
         ```
       * The frontend application will be accessible at `http://localhost:5173` (or another port specified by Vite/Create React App).
-
------
-
-## 🖼️ Screenshots
-
-*[Add screenshots or GIFs of your application here. This is the best way to showcase your work\!]*
-
-**Example:**
-
-| Login Page                               | Dashboard                                 |
-| ----------------------------------------- | ----------------------------------------- |
-|    | |
 
 -----
 
